@@ -1,4 +1,3 @@
-package q1;
 //sistema multithread
 import static java.lang.Thread.sleep;
 import java.util.Random;

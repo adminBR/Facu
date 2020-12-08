@@ -1,4 +1,3 @@
-package q4;
 //produtor consumidor sem semaforo
 import java.util.Random;
 
